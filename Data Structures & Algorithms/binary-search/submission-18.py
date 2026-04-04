@@ -11,4 +11,4 @@ class Solution:
                 l = m + 1
             else:
                 r = m
-        return -1
+        return l - 1
